@@ -1,0 +1,5 @@
+COUCOU 0.13.1 — correctif lien telephone
+
+Corrige la premiere publication vers le telephone (le PC ecrit maintenant
+l etat des l activation du lien, meme sans session en cours).
+Reinstalle via "Installer Coucou.bat", puis Reglages -> Phone reste configure.
